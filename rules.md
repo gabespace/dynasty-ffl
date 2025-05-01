@@ -45,7 +45,7 @@
   - 4-3: 2nd round playoff losers, reverse seed
   - 2: championship game loser
   - 1: championship game winner
-- Rounds: 3
+- Rounds: 4
 - Time per pick: 10 minutes
 - Trading: Allowed
 - Date: 1-4 weeks after the NFL draft
