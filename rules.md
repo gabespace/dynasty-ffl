@@ -1,4 +1,4 @@
-# Josh Gordin Dynasty Football League Rules
+# Gosh Jordin Dynasty Football League Rules
 
 ## Table of Contents
 - [League Structure](#league-structure)
