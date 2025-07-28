@@ -14,7 +14,7 @@
 - [Other](#other)
 
 ## League Structure
-- League Size: 12 teams
+- League Size: 10 teams
 - Platform: Sleeper
 - Commissioner: Gabe
 - First Season: 2025
@@ -40,7 +40,7 @@
 ### Rookie Draft
 - Format: Linear
 - Order:
-  - 12-7: Non-playoff teams, reverse Max PF
+  - 10-7: Non-playoff teams, reverse Max PF
   - 6-5: 1st round playoff losers, reverse seed
   - 4-3: 2nd round playoff losers, reverse seed
   - 2: championship game loser
@@ -57,10 +57,9 @@
   - 11 starters
   - 15 bench
   - 4 taxi
-- Time per pick: 10 minutes
+- Time per pick: 8 hours
   - May drop in later sessions
 - Trading: Allowed
-- Date: TBD, will be split into multiple sessions
 
 ## Scoring
 - Full PPR
@@ -84,7 +83,7 @@
 - Playoff Teams: 6
 - Playoff Format: Single-elimination, one week per round
 - Playoff Seeding: Record, PF
-- Playoff BYEs: 2
+- Playoff BYE Teams: 2
 
 ## Offseason
 - Free Agency: Closed until after the rookie draft
