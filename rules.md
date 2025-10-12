@@ -97,7 +97,7 @@
   - 2nd place: 10%
   - Regular season Max PF: 10%
 
-## Amendments
+## Rule changes
 - Process for Rule Changes: discussion & poll in Discord
 - Voting Requirements: supermajority (two-thirds) of league members
 
@@ -107,3 +107,18 @@
 - Disqualification:
   - If you are found to be colluding with another team, you and the colluding team will be disqualified from the league
   - If you do not pay your league dues by the time the rookie draft starts, you will be disqualified from the league
+
+# Amendments
+## Amendment 1: Inactive owners
+- An inactive owner will be removed from the league
+- Before this happens, the commissioner will make every reasonable attempt to contact the owner
+- An owner is deemed inactive if ALL of the following apply over a 2-week stretch at any point during the season (offseason is excluded):
+    - They start an inactive player
+    - They start a player who is strictly inferior to an eligible bench player
+        - There is no incentive for non-playoff teams to do this (refer to the Rookie Draft order rules)
+    - They are unreachable via Sleeper chat
+    - They are unreachable via the official Discord server
+- An owner removed due to inactivity will not receive any refunds
+- An ownerless team will be locked from performing transactions
+- The commissioner will look for a new owner ASAP
+    - Until a new owner takes over, the commissioner will actively set the starting lineup based on Sleeper projections
