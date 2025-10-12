@@ -122,3 +122,10 @@
 - An ownerless team will be locked from performing transactions
 - The commissioner will look for a new owner ASAP
     - Until a new owner takes over, the commissioner will actively set the starting lineup based on Sleeper projections
+
+## Amendment 2: Trade collusion
+- A trade constitutes collusion if:
+    - It is not a good faith effort by both managers to make their respective teams better
+    - It involves outside-of-the-game exchange of goods or services
+    - It involves a handshake agreement of in-game goods or services
+    - It cannot be completed all in one trade
