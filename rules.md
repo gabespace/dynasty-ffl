@@ -40,11 +40,11 @@
 ### Rookie Draft
 - Format: Linear
 - Order:
-  - 10-7: Non-playoff teams, reverse Max PF
-  - 6-5: 1st round playoff losers, reverse seed
-  - 4-3: 2nd round playoff losers, reverse seed
-  - 2: championship game loser
-  - 1: championship game winner
+  - 1-4: Non-playoff teams, reverse Max PF
+  - 5-6: 1st round playoff losers, reverse seed
+  - 7-8: 2nd round playoff losers, reverse seed
+  - 9: championship game loser
+  - 10: championship game winner
 - Rounds: 4
 - Time per pick: 10 minutes
 - Trading: Allowed
