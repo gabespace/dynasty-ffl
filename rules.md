@@ -95,7 +95,7 @@
 - Payout Structure:
   - 1st place: 80%
   - 2nd place: 10%
-  - Regular season Max PF: 10%
+  - Regular season PF leader: 10%
 
 ## Rule changes
 - Process for Rule Changes: discussion & poll in Discord
